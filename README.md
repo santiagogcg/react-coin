@@ -62,7 +62,7 @@ El componente `Favorites` muestra la lista de criptomonedas favoritas. Para ello
 recordamos la estructura del localStorage para guardar:
 
 ```bash
-localStorage.setItem('clave', 'valor');
+localStorage.setItem('clave', 'valor')
 ```
 
 ## PISTA: 
