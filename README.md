@@ -47,8 +47,10 @@ El componente `Coin` muestra información detallada sobre una criptomoneda en pa
 
 url de ejemplo: [https://api.coincap.io/v2/assets/bitcoin](https://api.coincap.io/v2/assets/bitcoin)
 
+4. **CSS:**
+Además añade estilo a tu aplicación. Recuerda la diferencia de añadir estilos de manera modular y global.  
 
-4. **BONUS:**
+5. **BONUS:**
 
 **Coin:**
 
