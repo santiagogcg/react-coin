@@ -1,0 +1,15 @@
+.crypto {
+    justify-content: center;
+    text-align: center;
+
+
+    margin-bottom: 10px;
+    padding: 5px;
+
+    border-radius: 30px;
+
+    background-color: hsl(60, 100%, 90%);
+    width: 500px;
+
+
+}
